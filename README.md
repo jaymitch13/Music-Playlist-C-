@@ -13,7 +13,10 @@ A Windows Forms application built as a final project for IS-224 class. This appl
 - Interactive data grid display
 
 **How to Execute:**
--Click the box to input the Song
+-Click the box to input the song name, artist, genre, release year, and the duration
+-Once all boxes are filled click the add Button at the bottom to add the song into the data grid display.
+-To filter the playlist by specific categories use the drop down box next to the textbox to put it in ascending or descending order.
+-To change the playlist you would click small box on the left of the data grid row and click edit, update, or remove to change the playlist.
 
 **Prerequisites:**
 - Windows operating system
